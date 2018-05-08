@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="Jo Wood, LandSerf 2.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+ <rte>
+  <rtept lat="51.941322" lon="0.22167258">
+   <name>01strt</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.94083" lon="0.2175779">
+   <name>02 SO</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.93799" lon="0.19855696">
+   <name>03 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.942554" lon="0.19898307">
+   <name>04 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.96139" lon="0.17975263">
+   <name>05 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.961258" lon="0.17676397">
+   <name>06 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.976273" lon="0.1754351">
+   <name>07Info</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.983868" lon="0.2143835">
+   <name>08 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.98267" lon="0.21411678">
+   <name>09 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.983593" lon="0.2624121">
+   <name>10 SO</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.98961" lon="0.29615748">
+   <name>11 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.98885" lon="0.30239287">
+   <name>12 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.995514" lon="0.31791267">
+   <name>13 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.99505" lon="0.3413153">
+   <name>14 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="52.010773" lon="0.3392381">
+   <name>15 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="52.013363" lon="0.34793067">
+   <name>16 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.990646" lon="0.3904336">
+   <name>17Info</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.960567" lon="0.34293744">
+   <name>18 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.953304" lon="0.34466276">
+   <name>19 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.94266" lon="0.3363491">
+   <name>20 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.917885" lon="0.32796893">
+   <name>21 FR</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.91382" lon="0.32857832">
+   <name>22 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.91655" lon="0.29842654">
+   <name>23 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.920036" lon="0.2922956">
+   <name>24 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.91014" lon="0.28610545">
+   <name>25 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.923607" lon="0.26996994">
+   <name>26 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.921696" lon="0.24612811">
+   <name>27 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.933437" lon="0.24758404">
+   <name>28 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.937054" lon="0.23032187">
+   <name>29 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.93984" lon="0.22872673">
+   <name>30 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.941353" lon="0.22150221">
+   <name>31Ctrl</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.921047" lon="0.22767197">
+   <name>32 FL</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.91445" lon="0.22895035">
+   <name>33 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.91433" lon="0.2353752">
+   <name>34 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.89222" lon="0.27196914">
+   <name>35 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.868004" lon="0.26667544">
+   <name>36 SO</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.852917" lon="0.26369438">
+   <name>37 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.849026" lon="0.26744664">
+   <name>38 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.83804" lon="0.31701297">
+   <name>39 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.834526" lon="0.3284361">
+   <name>40 SO</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.83332" lon="0.33780268">
+   <name>41 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.821983" lon="0.35227755">
+   <name>42 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.817436" lon="0.3461731">
+   <name>43 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.808136" lon="0.3494147">
+   <name>44 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.80882" lon="0.35452515">
+   <name>45Info</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.806274" lon="0.34654796">
+   <name>46 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.81285" lon="0.33706012">
+   <name>47 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.814514" lon="0.31764367">
+   <name>48 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.814938" lon="0.3110854">
+   <name>49 SO</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.817066" lon="0.2848786">
+   <name>50 FL</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.797325" lon="0.28202012">
+   <name>51Info</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.799324" lon="0.2650702">
+   <name>52 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.81935" lon="0.25853124">
+   <name>53 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.825535" lon="0.25474524">
+   <name>54 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.840233" lon="0.26507297">
+   <name>55 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.841213" lon="0.27075058">
+   <name>56 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.849068" lon="0.26736525">
+   <name>57 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.84874" lon="0.28156582">
+   <name>58 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.866974" lon="0.2753947">
+   <name>59 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.867928" lon="0.266293">
+   <name>60 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.892868" lon="0.27281305">
+   <name>61 FL</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.914253" lon="0.23523054">
+   <name>62 L</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.914158" lon="0.2287813">
+   <name>63 R</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.921013" lon="0.22756474">
+   <name>64 FR</name>
+   <sym>Waypoint</sym>
+  </rtept>
+  <rtept lat="51.941315" lon="0.22179131">
+   <name>65 END</name>
+   <sym>Waypoint</sym>
+  </rtept>
+ </rte>
+</gpx>
